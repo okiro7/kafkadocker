@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e08dd2f-2e48-41f6-a8e4-6ba022e23a9b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bT6kaynyjmqGrb5ZVpuxwvYBB3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/Mis Documentos/Downloads/ms-ohs-autos-master" value="PREVIEW" />
+        <entry key="D:/Mis Documentos/Downloads/prospectos-feature-prospectos-aws-master-with-cache" value="PREVIEW" />
+        <entry key="D:/Mis Documentos/Downloads/prospectos-master" value="PREVIEW" />
+        <entry key="D:/SURA/EML/gitcodeback" value="PREVIEW" />
+        <entry key="D:/SURA/Sagas/SagaVidaGrupo/saga-modernizacion-vida-grupo" value="PREVIEW" />
+        <entry key="D:/SURA/Sagas/microservice-archivo-confidencial" value="PREVIEW" />
+        <entry key="D:/SURA/Sagas/microservice-solicitud-digital" value="PREVIEW" />
+        <entry key="D:/SURA/Sagas/saga educacion git/saga-modernizacion-educacion" value="PREVIEW" />
+        <entry key="D:/SURA/Sagas/saga-modernizacion-educacion" value="PREVIEW" />
+        <entry key="D:/SURA/Sagas/sura-archivodigital-services" value="PREVIEW" />
+        <entry key="D:/SURA/Sagas/sura-impresion-services" value="PREVIEW" />
+        <entry key="D:/SURA/Sagas/sura-notificacion-services" value="PREVIEW" />
+        <entry key="D:/SURA/SagasGIT/ms-ayv-salud" value="PREVIEW" />
+        <entry key="D:/SURA/SagasGIT/ms-ohs-salud" value="PREVIEW" />
+        <entry key="D:/SURA/SagasGIT/saga-modernizacion-plancomplementario" value="PREVIEW" />
+        <entry key="D:/SURA/SagasGIT/saga-modernizacion-salud" value="PREVIEW" />
+        <entry key="D:/SURA/SagasGIT/saga-modernizacion-vida" value="PREVIEW" />
+        <entry key="D:/SURA/artefactos cotiza/prospectos" value="PREVIEW" />
+        <entry key="D:/SURA/cotizanuevo/salud/ms-ayv-salud" value="PREVIEW" />
+        <entry key="D:/SURA/masvida/ms-ayv-mas-vida" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e08dd2f-2e48-41f6-a8e4-6ba022e23a9b" name="Default Changelist" comment="" />
+      <created>1588643879773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588643879773</updated>
+    </task>
+    <servers />
+  </component>
+</project>
