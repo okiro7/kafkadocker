@@ -5,7 +5,22 @@ docker run -it --name kafkabroker -p 9092:9092 -p 2181:2181 kafka:release
 docker exec -it kafkabroker /bin/bash
 
 bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic productos-topic
+bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic rpprouter-account-topic
+
+
 bin/kafka-topics.sh --list --bootstrap-server localhost:9092
+
+
+# para eliminar un topic
+Add one line to server.properties file under config folder:
+
+delete.topic.enable=true
+
+then, run this command:
+
+bin/kafka-topics.sh --zookeeper localhost:2181 --delete --topic test
+./kafka-topics.sh --zookeeper localhost:2181 --alter --topic rpp-dvv-topup-dvv --partitions 20
+
 
 --ERRORES COMUNES
 
